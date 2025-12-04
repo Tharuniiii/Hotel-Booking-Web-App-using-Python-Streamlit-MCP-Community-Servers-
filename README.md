@@ -60,3 +60,6 @@ Local session state storage
 | UI Style  | Airbnb theme                  |
 | Data      | Auto-generated sample dataset |
 
+# MCP Community server 
+Airbnb --> https://github.com/openbnb-org/mcp-server-airbnb
+Just add this server and just see the magic with the frontend!
